@@ -4,10 +4,6 @@
   </div>
   <br/> <!-- Line break to separate the image from the status -->
   
-  <a href="https://kunalpreet.github.io/">
-    <img src="https://img.shields.io/website-Up-Down-green-red/https/kunalpreet.github.io?label=Status" alt="Status"/>
-  </a>
-  
   <p>Visit my website at <a href="https://kunalpreet.github.io">https://kunalpreet.github.io</a> to learn more about my projects and work.</p>
   
   <img src="https://github.com/kunalpreet/kunalpreet.github.io/blob/main/static/og.png" alt="demo"/>
