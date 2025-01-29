@@ -1,7 +1,17 @@
+<h1 align="center">
+  <a href="https://kunalpreet.github.io/" target="_blank">https://kunalpreet.github.io</a>
+</h1>
+<p align="center">
+  <a href="https://kunalpreet.github.io/" target="_blank">
+    <img src="https://img.shields.io/website-Up-Down-green-red/https/benkostiuk.com?label=Status" alt="Status" />
+  </a>
+</p>
+
+![demo](https://raw.githubusercontent.com/kunalpreet/kunalpreet.github.io/static/og.png)
 
 ## 🛠 Installation & Set Up
 
-1. Install the Gatsby C
+1. Install the Gatsby CLI
 
    ```sh
    npm install -g gatsby-cli
@@ -15,7 +25,7 @@
 
 3. Install dependencies
 
-   ```shs
+   ```sh
    yarn
    ```
 
@@ -52,3 +62,4 @@ For more information on how to host your website _for free_ using github pages s
 This is a _heavily modified_ version of [Brittany Chiang's](https://github.com/bchiang7) [v4 website](https://brittanychiang.com), therefore you are more than welcome to copy and use any of the code **with attribution** by linking back to her original website [brittanychiang.com](https://brittanychiang.com).
 
 If you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+
