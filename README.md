@@ -1,10 +1,8 @@
-<h1 align="center">
-  <a href="https://kunalpreet.github.io/" target="_blank">https://kunalpreet.github.io</a>
-</h1>
-<p align="center">
-  <a href="https://kunalpreet.github.io/" target="_blank">
-    <img src="https://img.shields.io/website-Up-Down-green-red/https/benkostiuk.com?label=Status" alt="Status" />
-  </a>
+# [Kunalpreet's Website](https://kunalpreet.github.io/)
+
+[![Status](https://img.shields.io/website-Up-Down-green-red/https/https://kunalpreet.github.io/?label=Status)](https://kunalpreet.github.io/)
+
+Visit my website at [https://kunalpreet.github.io](https://kunalpreet.github.io) to learn more about my projects and work.
 </p>
 
 ![demo](https://github.com/kunalpreet/kunalpreet.github.io/blob/main/static/og.png)
