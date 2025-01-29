@@ -1,5 +1,5 @@
 ---
-date: '2023-08'
+date: '2023-08-01'
 title: 'Software Engineer Intern'
 company: 'TD Bank'
 location: 'Toronto'
