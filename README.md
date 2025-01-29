@@ -1,6 +1,7 @@
-![demo](https://github.com/kunalpreet/kunalpreet.github.io/blob/main/src/images/logo.png)
 
 # [Kunalpreet's Website](https://kunalpreet.github.io/)
+
+<img src="https://github.com/kunalpreet/kunalpreet.github.io/blob/main/src/images/logo.png" alt="drawing" width="200"/>
 
 [![Status](https://img.shields.io/website-Up-Down-green-red/https/kunalpreet.github.io?label=Status)](https://kunalpreet.github.io/)
 
