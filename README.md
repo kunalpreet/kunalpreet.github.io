@@ -1,13 +1,17 @@
+<div style="text-align: center;">
+  <h1><a href="https://kunalpreet.github.io/">Kunalpreet's Website</a></h1>
+  
+  <img src="https://github.com/kunalpreet/kunalpreet.github.io/blob/main/src/images/logo.png" alt="drawing" width="200"/>
+  
+  <a href="https://kunalpreet.github.io/">
+    <img src="https://img.shields.io/website-Up-Down-green-red/https/kunalpreet.github.io?label=Status" alt="Status"/>
+  </a>
+  
+  <p>Visit my website at <a href="https://kunalpreet.github.io">https://kunalpreet.github.io</a> to learn more about my projects and work.</p>
+  
+  <img src="https://github.com/kunalpreet/kunalpreet.github.io/blob/main/static/og.png" alt="demo"/>
+</div>
 
-# [Kunalpreet's Website](https://kunalpreet.github.io/)
-
-<img src="https://github.com/kunalpreet/kunalpreet.github.io/blob/main/src/images/logo.png" alt="drawing" width="200"/>
-
-[![Status](https://img.shields.io/website-Up-Down-green-red/https/kunalpreet.github.io?label=Status)](https://kunalpreet.github.io/)
-
-Visit my website at [https://kunalpreet.github.io](https://kunalpreet.github.io) to learn more about my projects and work.
-
-![demo](https://github.com/kunalpreet/kunalpreet.github.io/blob/main/static/og.png)
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
