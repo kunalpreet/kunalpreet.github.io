@@ -1,6 +1,7 @@
-<div style="text-align: center;">
+<div align="center">
+  <div center;">
   <img src="https://github.com/kunalpreet/kunalpreet.github.io/blob/main/src/images/logo.png" alt="drawing" width="200"/>
-  
+  </div>
   <br/> <!-- Line break to separate the image from the status -->
   
   <a href="https://kunalpreet.github.io/">
