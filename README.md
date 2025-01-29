@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-  
   <img src="https://github.com/kunalpreet/kunalpreet.github.io/blob/main/src/images/logo.png" alt="drawing" width="200"/>
+  
+  <br/> <!-- Line break to separate the image from the status -->
   
   <a href="https://kunalpreet.github.io/">
     <img src="https://img.shields.io/website-Up-Down-green-red/https/kunalpreet.github.io?label=Status" alt="Status"/>
