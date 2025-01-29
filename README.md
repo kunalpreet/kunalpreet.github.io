@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/kunalpreet/kunalpreet.github.io/static/og.png)
+![demo](https://github.com/kunalpreet/kunalpreet.github.io/blob/main/static/og.png)
 
 ## 🛠 Installation & Set Up
 
