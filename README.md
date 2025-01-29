@@ -1,9 +1,8 @@
 # [Kunalpreet's Website](https://kunalpreet.github.io/)
 
-[![Status](https://img.shields.io/website-Up-Down-green-red/https/https://kunalpreet.github.io/?label=Status)](https://kunalpreet.github.io/)
+[![Status](https://img.shields.io/website-Up-Down-green-red/https/kunalpreet.github.io?label=Status)](https://kunalpreet.github.io/)
 
 Visit my website at [https://kunalpreet.github.io](https://kunalpreet.github.io) to learn more about my projects and work.
-</p>
 
 ![demo](https://github.com/kunalpreet/kunalpreet.github.io/blob/main/static/og.png)
 
