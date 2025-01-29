@@ -15,7 +15,7 @@
 
 3. Install dependencies
 
-   ```sh
+   ```shs
    yarn
    ```
 

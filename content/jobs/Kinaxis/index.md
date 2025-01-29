@@ -1,5 +1,5 @@
 ---
-date: '2022-09-01'
+date: '2022-09-04'
 title: 'Software Engineer Intern'
 company: 'Kinaxis'
 location: 'Toronto, ON'

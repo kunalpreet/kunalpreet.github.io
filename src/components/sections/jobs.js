@@ -189,7 +189,6 @@ const Jobs = () => {
             frontmatter {
               title
               company
-              companyFullName
               cover {
                 childImageSharp {
                   gatsbyImageData(width: 600, formats: [AUTO, WEBP, AVIF])
@@ -289,7 +288,7 @@ const Jobs = () => {
         </StyledTabList>
 
         <StyledTabPanels>
-                  {jobsData &&
+          {jobsData &&
                     jobsData.map(({ node }, i) => {
                       const { frontmatter, html } = node;
                       const { title, url, company, companyFullName, range, cover } = frontmatter;
@@ -321,7 +320,7 @@ const Jobs = () => {
                         </CSSTransition>
                       );
                     })}
-                </StyledTabPanels>
+        </StyledTabPanels>
       </div>
     </StyledJobsSection>
   );

@@ -1,12 +1,18 @@
 ---
-date: '2020-06-15'
-title: 'Junior Software Developer'
-company: 'TechCo'
-companyFullName: 'Tech Company Inc.'
-location: 'Toronto, ON'
-range: 'June - December 2020'
-url: 'https://www.techco.com/'
-cover: './techco.png'
+# date: '2020-06-15'
+# title: 'Junior Software Developer'
+# company: 'TechCo'
+# companyFullName: 'Tech Company Inc.'
+# location: 'Toronto, ON'
+# range: 'June - December 2020'
+# url: 'https://www.techco.com/'
+# cover: './techco.png'
+date: '2022-05-04'
+title: 'Software Engineering Intern'
+company: 'Affirm'
+location: 'Remote'
+range: 'May - August 2022'
+url: 'https://www.affirm.com/'
 ---
 
 - Built a chatbot solution using Dialogflow and a Python backend to enhance customer support for over 200,000+ users.
