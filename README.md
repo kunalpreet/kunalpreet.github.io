@@ -1,5 +1,4 @@
 <div style="text-align: center;">
-  <h1><a href="https://kunalpreet.github.io/">Kunalpreet's Website</a></h1>
   
   <img src="https://github.com/kunalpreet/kunalpreet.github.io/blob/main/src/images/logo.png" alt="drawing" width="200"/>
   
