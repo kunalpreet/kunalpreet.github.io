@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kunalpreetmatharu.com/sitemap.xml
+Host: https://kunalpreetmatharu.com
