@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://kunalpreetmatharu.com/sitemap.xml
-Host: https://kunalpreetmatharu.com
+Sitemap: https://kunalpreet.github.io/sitemap.xml
+Host: https://kunalpreet.github.io
